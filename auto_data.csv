@@ -1,0 +1,7 @@
+observation_id,route,time_slot,waiting_time_min,auto_departed_full
+1,A-B,morning,4,yes
+2,B-A,evening,48,yes
+3,B-A,afternoon,0,no
+4,A-B,morning,18,yes
+5,B-A,evening,20,yes
+6,A-B,morning,22,yes
